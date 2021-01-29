@@ -1,6 +1,6 @@
-# Challenger Docker Go Lang
+# Challenge Docker Go Lang
 
-Challenger created on fullcicle course from code.education.
+Challenge created on fullcicle course from code.education.
 
 ## How to use 
 ### Build the docker image
